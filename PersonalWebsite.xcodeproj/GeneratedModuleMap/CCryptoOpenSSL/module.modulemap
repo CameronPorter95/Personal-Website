@@ -1,0 +1,4 @@
+module CCryptoOpenSSL {
+    umbrella "/Users/cameron/Documents/projects/PersonalWebsite/.build/checkouts/crypto/Sources/CCryptoOpenSSL/include"
+    export *
+}
